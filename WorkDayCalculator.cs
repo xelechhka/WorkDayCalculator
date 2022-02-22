@@ -11,8 +11,8 @@ namespace WorkDayCalculator
 
         public DateTime Calculate(DateTime startDate, int dayCount, WeekEnd[] weekEnds)
         {
-            int weekendsCount = 0; //количество выходных
-            for (int i = 0; i < weekEnds.Length; i++) //количество введённых дат начала и дат конца выходных
+            int weekendsCount = 0; //счётчик выходных
+            for (int i = 0; i < weekEnds.Length; i++) //количество выходных промежутков
             {
                 if (startDate < weekEnds[i].StartDate & startDate <= weekEnds[i].EndDate)
                 {
