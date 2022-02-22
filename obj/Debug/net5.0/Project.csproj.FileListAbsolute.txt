@@ -1,0 +1,16 @@
+F:\C#\Pet\Project\bin\Debug\net5.0\Project.exe
+F:\C#\Pet\Project\bin\Debug\net5.0\Project.deps.json
+F:\C#\Pet\Project\bin\Debug\net5.0\Project.runtimeconfig.json
+F:\C#\Pet\Project\bin\Debug\net5.0\Project.runtimeconfig.dev.json
+F:\C#\Pet\Project\bin\Debug\net5.0\Project.dll
+F:\C#\Pet\Project\bin\Debug\net5.0\ref\Project.dll
+F:\C#\Pet\Project\bin\Debug\net5.0\Project.pdb
+F:\C#\Pet\Project\obj\Debug\net5.0\Project.csproj.AssemblyReference.cache
+F:\C#\Pet\Project\obj\Debug\net5.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Pet\Project\obj\Debug\net5.0\Project.AssemblyInfoInputs.cache
+F:\C#\Pet\Project\obj\Debug\net5.0\Project.AssemblyInfo.cs
+F:\C#\Pet\Project\obj\Debug\net5.0\Project.csproj.CoreCompileInputs.cache
+F:\C#\Pet\Project\obj\Debug\net5.0\Project.dll
+F:\C#\Pet\Project\obj\Debug\net5.0\ref\Project.dll
+F:\C#\Pet\Project\obj\Debug\net5.0\Project.pdb
+F:\C#\Pet\Project\obj\Debug\net5.0\Project.genruntimeconfig.cache
